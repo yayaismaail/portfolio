@@ -473,7 +473,7 @@ a {
   list-style-type: none;
   padding: 0;
   margin: 15px 0;
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
 }
 
@@ -1151,4 +1151,5 @@ hr {
     background-color: #396df2;
     overflow-y: auto;
   }
+
 }
