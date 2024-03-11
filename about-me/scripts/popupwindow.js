@@ -7,7 +7,7 @@ const popupArr = [
     mobileTitle: 'Tailoring',
     desktopTitle: 'Tailoring',
     detail: ['Men Suit', 'Female Gown', 'Sewing Tools'],
-    description: ['This is a Tailor website that Produce Custom-made (bespoke) Suits, Jackets And Coats For Men And Women and other sewing tools.', 'This is a Tailor website that Produce Custom-made (bespoke) Suits, Jackets And Coats For Men And Women and other sewing tools.'],
+    description: ['Welcome to our Tailor Website, Specializing in Custom-made (bespoke) Suits, Jackets, and Coats for Men and Women, along with Other Sewing Tools.', 'Welcome to our Tailor Website, Specializing in Custom-made (bespoke) Suits, Jackets, and Coats for Men and Women, along with Other Sewing Tools.'],
     stack: ['html', 'css', 'javaScript'],
     mobileImage: 'images/snipp-mob.PNG',
     desktopImage: 'images/snipp2.PNG',
