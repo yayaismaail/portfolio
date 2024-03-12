@@ -18,6 +18,22 @@ html {
     margin-bottom: 20px;
   }
 
+  .image-container .b {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    animation: rotate 8s linear infinite;
+  }
+
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
   .bio, .a {
     display: none;
   }
